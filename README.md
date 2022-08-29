@@ -23,6 +23,7 @@ Email Analysis
 Knowledge on Security concepts like Cyber kill chain process, Different types attacks and Malwares.
 Fundamental knowledge on tools like Virus total, MX toolbox, Any. Run, urlscan.io, Cisco talos
 intelligence. Com, IPvoid and urlvoid.
+
 Networking Fundamentals:
 Ports and Protocols
 Network Devices (Router, Hub, Switch, Bridge)
@@ -30,6 +31,7 @@ Good understanding of TCP concept and 3-way Handshake
 OSI and TCP/IP Layers
 Network Security Devices (Firewalls, Anti-virus, IDS/IPS)
 OSINT Framework Tools
+
 SOFTWARES AND TOOLS:
 Basics of Python.
 Amazon (EC2)
