@@ -12,6 +12,7 @@ organization where I can grow personally as well as professionally while contrib
 the company.
 
 TECHNICAL SKILLS:
+
 SOC (Security Operations Center):
 
 SOC Terminologies
@@ -66,6 +67,7 @@ Nationality : Indian
 Gender : Male
 Place : Hyderabad
 Languages known : English,Hindi,Telugu,Urdu
+
 DECLARATION:
  I hereby declare that all the information given above is true to the best of my knowledge and 
 belief.
